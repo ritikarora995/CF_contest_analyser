@@ -20,10 +20,3 @@ It provides Time Analysis of each problem level, using which you can get an idea
 * If you enter swapped value of starting & ending date, it will automatically fix into its proper values.
 * Only those problems are shown in which user made atleast one submission [Need not be AC].
 * In case of div1+2 contest, div2C is usually written as div1A, so there maybe some difference with real analysis.
-
-#### Have Some Suggestion or found a bug? 
-Kindly reach out to any of our team members. We would be happy to interact with you!
-#### Want to contribute to this project?
-[Here](https://github.com/shivansh1102/CF_Contest_Analyzer) is the link of github repo.Feel free to contribute :)
-
-[Link](https://cfcontestanalyzer.herokuapp.com/) to deployed website 
